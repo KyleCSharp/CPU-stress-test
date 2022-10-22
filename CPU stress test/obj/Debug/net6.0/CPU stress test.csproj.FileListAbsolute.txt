@@ -1,0 +1,15 @@
+C:\Users\kylel\source\repos\CPU stress test\CPU stress test\bin\Debug\net6.0\CPU stress test.exe
+C:\Users\kylel\source\repos\CPU stress test\CPU stress test\bin\Debug\net6.0\CPU stress test.deps.json
+C:\Users\kylel\source\repos\CPU stress test\CPU stress test\bin\Debug\net6.0\CPU stress test.runtimeconfig.json
+C:\Users\kylel\source\repos\CPU stress test\CPU stress test\bin\Debug\net6.0\CPU stress test.dll
+C:\Users\kylel\source\repos\CPU stress test\CPU stress test\bin\Debug\net6.0\CPU stress test.pdb
+C:\Users\kylel\source\repos\CPU stress test\CPU stress test\obj\Debug\net6.0\CPU stress test.csproj.AssemblyReference.cache
+C:\Users\kylel\source\repos\CPU stress test\CPU stress test\obj\Debug\net6.0\CPU stress test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylel\source\repos\CPU stress test\CPU stress test\obj\Debug\net6.0\CPU stress test.AssemblyInfoInputs.cache
+C:\Users\kylel\source\repos\CPU stress test\CPU stress test\obj\Debug\net6.0\CPU stress test.AssemblyInfo.cs
+C:\Users\kylel\source\repos\CPU stress test\CPU stress test\obj\Debug\net6.0\CPU stress test.csproj.CoreCompileInputs.cache
+C:\Users\kylel\source\repos\CPU stress test\CPU stress test\obj\Debug\net6.0\CPU stress test.dll
+C:\Users\kylel\source\repos\CPU stress test\CPU stress test\obj\Debug\net6.0\refint\CPU stress test.dll
+C:\Users\kylel\source\repos\CPU stress test\CPU stress test\obj\Debug\net6.0\CPU stress test.pdb
+C:\Users\kylel\source\repos\CPU stress test\CPU stress test\obj\Debug\net6.0\CPU stress test.genruntimeconfig.cache
+C:\Users\kylel\source\repos\CPU stress test\CPU stress test\obj\Debug\net6.0\ref\CPU stress test.dll
