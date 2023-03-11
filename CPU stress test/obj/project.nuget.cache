@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ACyiaFAOHyAT5D69CgXWVb+qvkmvfDoGHpWbMike0izpfdD9KXFLuK6F7b+MezRJI4jswl06DgZCtRLvov3zg==",
+  "dgSpecHash": "GkIvOsHY72ZISnZnwHvlazb1wuHt15BGuqdKGU/qK79EFp47GMtZcjS08FVhsqd1OkOkZirPTWNWfEeF1zQWCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kylel\\source\\repos\\CPU stress test\\CPU stress test\\CPU stress test.csproj",
+  "projectFilePath": "D:\\repos\\CPU-stress-test\\CPU stress test\\CPU stress test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
